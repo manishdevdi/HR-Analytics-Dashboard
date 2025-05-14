@@ -90,7 +90,7 @@ The dataset used in this project is included as a CSV file: `HR-Employee-Attriti
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/hr-analytics-dashboard.git
+git clone https://github.com/manishdevdi/HR-Analytics-Dashboard.git
 ```
 3. Open HR Analytics Dashboard.pbix in Power BI Desktop.
 4. If prompted, relink the dataset HR-Employee-Attrition.csv.
@@ -105,7 +105,7 @@ Contributions are welcome! Fork the repo, make your changes, and submit a pull r
 ## 📄 License
 
 This project is licensed under the **MIT License**.  
-For more details, see the [LICENSE](https://github.com/manishdevdi/Multiple-Disease-Prediction-Web-Application/blob/main/LICENSE) file.
+For more details, see the [LICENSE](https://github.com/manishdevdi/HR-Analytics-Dashboard/blob/main/LICENSE) file.
 
 ---
 
