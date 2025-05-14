@@ -71,8 +71,7 @@ The dataset used in this project is included as a CSV file: `HR-Employee-Attriti
 
 ## 📷 Dashboard Preview
 
-> 🖼️ *You can add screenshots here:*
-
+![Dashboard Preview](https://github.com/manishdevdi/HR-Analytics-Dashboard/blob/main/Dashboard_Preview.png)
 
 ---
 
@@ -100,3 +99,22 @@ git clone https://github.com/your-username/hr-analytics-dashboard.git
 
 ## 🤝 Contributing
 Contributions are welcome! Fork the repo, make your changes, and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+For more details, see the [LICENSE](https://github.com/manishdevdi/Multiple-Disease-Prediction-Web-Application/blob/main/LICENSE) file.
+
+---
+
+## 📧 Contact  
+📌 **Author:**  Manish Devdi   
+
+📌 **GitHub:**  [manishdevdi](https://github.com/manishdevdi)              📌 **LinkedIn:** [Manish Devdi](https://www.linkedin.com/in/manish-devdi-63bb78234/)  
+
+⭐ **If you like this project, give it a star!** ⭐  
+
+
+
